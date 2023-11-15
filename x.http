@@ -1,0 +1,10 @@
+
+GET http://localhost:3006/
+
+PUT http://localhost:3006/plays/
+Content-Type: application/json
+
+{
+    "name":"cena",
+    "age":36
+}
